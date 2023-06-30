@@ -1,0 +1,10 @@
+name: KitPvP
+version: '${project.version}'
+main: me.isaacfediw.kitpvp.KitPvP
+commands:
+  rules:
+    usage: </command>
+  coinShop:
+    usage: </command>
+  coin:
+    usage: </command>
